@@ -1,6 +1,6 @@
 # npmtest-jsx-loader
 
-#### test coverage for  [jsx-loader (v0.13.2)](https://github.com/petehunt/jsx-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-jsx-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jsx-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jsx-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-jsx-loader)
+#### basic test coverage for  [jsx-loader (v0.13.2)](https://github.com/petehunt/jsx-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-jsx-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jsx-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jsx-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-jsx-loader)
 
 #### JSX loader for webpack
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-jsx-loader/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-jsx-loader/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jsx-loader/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jsx-loader/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jsx-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jsx-loader/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-jsx-loader/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-jsx-loader/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jsx-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jsx-loader/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-jsx-loader/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jsx-loader/build/coverage.html/index.html)
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.13.2"
+    "version": "0.13.2",
+    "bin": {}
 }
 ```
 

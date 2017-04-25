@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [jsx-loader (v0.13.2)](https://github.com/petehunt/jsx-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-jsx-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jsx-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jsx-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-jsx-loader)",
+    "description": "#### basic test coverage for  [jsx-loader (v0.13.2)](https://github.com/petehunt/jsx-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-jsx-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jsx-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jsx-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-jsx-loader)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "jsx-loader": "*",
